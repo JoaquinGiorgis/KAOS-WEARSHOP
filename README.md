@@ -25,13 +25,6 @@ funciona de la misma manera que un dispositivo móvil)
 - Expo - Framework y plataforma para aplicaciones universales hechas en React.
 - React Native - Framework para construir aplicaciones nativas.
 - Redux - Utilizado para trabajar con un estado global
-# Autores ✒️
-- Santiago Alessandro - Líder de grupo.
-- Mauricio Alcalde - Integrante de grupo.
-- Joaquin Giorgis - Integrante de grupo.
-- Fabian Tureo - Integrante de grupo.
-- Sabrina Fernandez - Integrante de grupo.
-- Lucas Cachazo - Integrante de grupo.
 # Expresiones de Gratitud 🎁
 Se agradece a Fernando Biaus por la mentoría y la dedicación. <br/>
 A todos los integrantes del equipo por la gran dedicacion con la que se desenvolvieron y por el resultado obtenido! <br/>
